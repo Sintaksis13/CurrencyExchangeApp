@@ -1,0 +1,4 @@
+# Project exclude paths
+/limit-service/target/
+./.idea
+*.iml
